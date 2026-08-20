@@ -1,0 +1,501 @@
+risotto carne paella pasta pizza tiramisu spiedini pane gnocchi tartare carpaccio vellutata tofu braciola calamari sashimi gelato cozze ravioli pollo frittata arancini gamberi patatine couscous taco bistecca bruschetta zuppa maki formaggio lasagne focaccia torta minestrone polenta birra vino ramen pesce insalata sushi arrosto polpette kebab caviale hamburger tempura ostriche salmone
+-sashimi gnocchi vino tartare
+risotto tiramisu frittata -ramen
+pesce -gelato -paella arancini -torta
+-cozze
+carpaccio -salmone paella -cozze
+-taco calamari
+insalata -salmone
+-focaccia gelato
+-birra kebab -polpette
+-gelato kebab
+ramen
+bistecca
+-pollo -lasagne insalata formaggio -frittata
+-bistecca -salmone -arrosto -cozze
+gelato tartare
+tartare polenta ostriche tiramisu
+taco -lasagne calamari bistecca
+carpaccio maki
+birra arrosto
+-formaggio -ravioli
+-frittata pollo
+-risotto
+gamberi -arancini -cozze -risotto
+-caviale -carpaccio -tiramisu
+paella
+minestrone -zuppa couscous -birra
+-lasagne -torta
+-taco -maki bruschetta -salmone -insalata
+gelato
+minestrone bruschetta -insalata -gamberi -arancini
+spiedini
+pasta
+salmone -pasta -formaggio
+arrosto bruschetta birra -tiramisu -frittata
+-vellutata lasagne
+-sashimi
+minestrone paella -pasta
+-cozze
+pasta tartare -calamari
+-ostriche
+bistecca
+-insalata caviale arrosto
+arancini -polenta risotto
+lasagne
+-polenta tofu -sushi
+vellutata vino
+-carpaccio pasta -pizza
+minestrone -cozze caviale -bistecca
+spiedini -insalata -couscous -tofu gnocchi
+minestrone ramen -gamberi
+-cozze
+-pesce vellutata -spiedini -zuppa
+braciola pizza
+-risotto -frittata tartare
+-lasagne -torta -patatine
+-caviale taco -tempura
+polenta couscous
+tempura
+tiramisu -braciola -pizza pollo vellutata
+-taco -patatine
+-sushi spiedini
+-sashimi -pane pesce -insalata arrosto
+-salmone caviale -focaccia -pollo
+taco -frittata -pizza -patatine
+-tofu sushi birra -pasta
+torta polenta zuppa
+-tempura polenta -salmone calamari
+polpette
+gamberi -pane vino -tartare
+-tiramisu polpette -vellutata -minestrone
+pizza kebab gamberi
+polenta vino lasagne -carpaccio
+-sashimi -carne caviale
+carne
+zuppa bruschetta
+taco frittata arrosto -focaccia
+ostriche -gelato zuppa -gnocchi
+gnocchi bistecca -patatine
+carpaccio -vellutata pollo
+pizza -patatine -vellutata frittata
+couscous -minestrone paella -vellutata
+-vino -torta -paella gamberi
+torta -gamberi -ravioli -vellutata
+vellutata ostriche lasagne
+birra
+-formaggio risotto -gnocchi taco
+caviale pesce tartare -couscous
+-tiramisu -ostriche pasta
+birra -taco -carne
+birra vellutata -taco -tartare
+-cozze -tartare
+bistecca kebab -pane
+-focaccia -pesce birra
+kebab -pesce spiedini
+-ramen carpaccio
+torta -carpaccio
+frittata -polpette -pasta
+-couscous zuppa focaccia
+spiedini arancini bruschetta ostriche
+taco
+taco ravioli pasta focaccia
+-braciola
+-tartare arrosto -minestrone hamburger -pizza
+-ravioli
+vellutata caviale -arancini -gamberi -maki
+-ostriche ramen patatine -arrosto couscous
+-arancini -caviale bruschetta -gamberi -spiedini
+-arancini vino calamari -lasagne
+frittata polpette -tofu -birra -bruschetta
+ravioli -carne -vino
+-minestrone -vino
+frittata minestrone -hamburger taco
+paella -risotto -cozze lasagne -vino
+-arrosto torta -paella pasta
+-carpaccio -birra -maki
+-hamburger pizza kebab arrosto frittata
+focaccia -pane -kebab
+-caviale
+bruschetta -tiramisu
+calamari -carpaccio
+spiedini -minestrone -tiramisu -zuppa ostriche
+-formaggio
+spiedini -ramen -formaggio tempura
+-pane -birra
+-torta -couscous minestrone
+-kebab
+cozze -taco -carpaccio -carne pasta
+cozze
+birra -bistecca zuppa carne -ostriche
+tartare -salmone -gamberi -carne caviale
+-ravioli pane -taco
+-zuppa -insalata -bruschetta tartare -salmone
+taco spiedini -hamburger -arancini -pizza
+-polpette -gelato pane -arancini -risotto
+-insalata -patatine -spiedini -sashimi
+tiramisu ramen frittata -vino
+-braciola pane
+-caviale -cozze salmone -zuppa
+birra tiramisu
+-birra pasta
+spiedini -polenta
+spiedini
+focaccia arrosto -couscous -pasta
+spiedini
+-patatine polenta -arancini -salmone couscous
+-cozze -lasagne focaccia -gelato calamari
+-taco gnocchi -risotto vino birra
+-salmone -caviale
+-sashimi zuppa
+-tiramisu couscous
+ostriche -arrosto gelato polpette
+arancini pasta lasagne -braciola
+salmone -pasta
+birra
+formaggio gnocchi polenta tofu
+-risotto
+gnocchi maki tiramisu carne risotto
+-ravioli -tartare zuppa
+kebab -gelato -ostriche -zuppa pizza
+-gamberi sashimi -sushi -carpaccio -minestrone
+-maki -frittata lasagne
+minestrone focaccia -taco -patatine
+pollo -pizza -risotto -ramen
+sushi spiedini -pizza couscous bruschetta
+-gamberi couscous ramen
+caviale minestrone
+-taco -spiedini -frittata -pesce torta
+-tartare -maki frittata pesce
+birra
+-caviale tiramisu tofu -pasta sashimi
+-minestrone tartare -hamburger -sushi
+sashimi -lasagne -tartare
+-cozze birra
+-couscous arancini -carpaccio tartare -pasta
+pane birra
+pane -gnocchi pizza focaccia
+kebab tofu pesce -pizza
+-taco -ravioli -caviale -polenta
+zuppa bruschetta -spiedini
+-vellutata salmone -focaccia -spiedini
+-polpette
+-ravioli formaggio pollo -pesce tofu
+bruschetta ostriche
+kebab -couscous -calamari -polpette arancini
+bistecca -pesce -zuppa
+-sushi -polenta taco
+-risotto calamari ramen salmone braciola
+-calamari polenta
+caviale -carne -minestrone patatine -salmone
+sashimi
+-arrosto -carpaccio sashimi couscous
+minestrone
+pasta risotto -spiedini
+pollo pasta -gamberi
+tempura
+bruschetta tiramisu -hamburger -calamari
+taco
+-gamberi -hamburger
+-frittata
+tiramisu -polenta -ramen
+salmone zuppa -minestrone gnocchi -arancini
+-lasagne
+-carpaccio
+vellutata -ramen polenta tofu
+-zuppa -arancini -tartare caviale patatine
+vellutata hamburger lasagne
+polenta
+bruschetta -caviale carpaccio -vino
+-tofu -ravioli
+zuppa -frittata -sushi -caviale
+-carne -insalata
+-insalata -patatine -gelato spiedini -carne
+lasagne gamberi ostriche -birra
+ostriche spiedini -tiramisu pane
+-torta -caviale insalata
+frittata
+tempura formaggio
+arrosto tempura
+-sushi -taco
+-insalata vino
+-polpette bistecca -zuppa -vino
+bistecca zuppa sushi -couscous
+arrosto ravioli
+-maki -focaccia
+ramen -pasta patatine bruschetta
+minestrone calamari -kebab -taco
+ravioli pizza risotto gnocchi maki
+minestrone -arrosto -hamburger frittata
+-carne arrosto -tartare
+-carne -insalata -polenta tartare
+-sushi -patatine insalata
+-lasagne formaggio risotto arrosto
+-cozze -pizza -hamburger
+-gnocchi
+-spiedini -braciola
+lasagne couscous
+pesce -formaggio gelato -zuppa minestrone
+-sushi -carpaccio
+-polpette -pasta
+ostriche maki
+-birra -patatine taco ravioli insalata
+-bruschetta pane maki -tiramisu -minestrone
+polenta -vino -ramen pane
+carpaccio lasagne tempura vellutata
+zuppa birra -tiramisu hamburger sashimi
+arancini
+arancini -minestrone -vellutata -pollo -lasagne
+-risotto
+-hamburger ravioli -gelato tempura
+-hamburger pesce gelato calamari
+-hamburger minestrone
+ramen -pesce -ostriche
+-vellutata tartare
+-risotto -arrosto -arancini
+-pasta cozze
+taco
+-maki -tempura -pollo frittata
+-sashimi
+arancini -tofu carne
+-pesce -tempura -risotto
+paella -pizza -caviale -minestrone
+arancini caviale bistecca -frittata
+-hamburger
+-carpaccio tofu -tiramisu
+-birra minestrone braciola gamberi -salmone
+-ostriche pollo sushi -frittata gnocchi
+calamari insalata
+bistecca salmone pasta -vino gamberi
+bruschetta -polpette insalata pollo hamburger
+-vellutata -cozze
+-caviale
+salmone -tofu
+-polpette maki
+-calamari
+-sushi bruschetta
+-arrosto arancini -tofu
+-calamari -braciola arrosto
+-risotto
+-paella pesce cozze
+-risotto
+arancini
+tiramisu paella -sushi -bistecca
+-arancini
+-cozze -ravioli pollo -polenta
+pasta carpaccio -calamari -carne gnocchi
+-braciola -arrosto -hamburger bruschetta -pane
+tartare tiramisu polpette
+salmone ravioli spiedini
+pollo zuppa patatine -hamburger
+formaggio -braciola gelato -paella -tartare
+-salmone bruschetta -pasta
+vellutata sushi caviale
+-tartare pasta gelato -lasagne -salmone
+gnocchi
+spiedini -pane -gnocchi -arrosto
+-torta ramen carne vino gamberi
+-lasagne
+-carne -polenta -gnocchi birra
+-maki
+focaccia ostriche bistecca carne -cozze
+-maki -pollo
+bistecca -birra hamburger
+pasta -frittata
+tiramisu -patatine -sushi polpette -arancini
+-calamari -pizza -gamberi
+-polpette -arrosto -sashimi pizza -birra
+-tempura formaggio tiramisu -gamberi
+gelato
+-polenta couscous caviale -arrosto -vellutata
+zuppa arancini carpaccio tiramisu -bistecca
+-patatine pizza
+gelato -pane frittata insalata
+zuppa -ramen -patatine couscous minestrone
+-taco
+hamburger
+pizza -ramen -lasagne tiramisu
+lasagne
+-gnocchi -carne torta -calamari
+-arancini risotto -couscous -ravioli
+-arrosto -taco
+calamari -ostriche pizza torta braciola
+-ostriche -vino maki -tartare
+-tempura taco
+-paella -frittata
+gnocchi -polpette hamburger -tofu
+maki -gamberi
+-arancini -pizza -minestrone -spiedini
+-arancini -tofu birra tartare
+torta
+-calamari -ostriche tartare -vellutata -arrosto
+polpette
+spiedini -birra
+-arrosto carpaccio -ramen -arancini
+-gelato -lasagne braciola
+pesce
+-sashimi
+-pizza -paella calamari
+-pizza spiedini gamberi torta
+-salmone gnocchi -arancini -gamberi tempura
+pesce -arrosto -carne caviale
+couscous
+-pasta frittata risotto
+-tempura -ostriche -taco pesce
+-sashimi -gelato ostriche -paella -ramen
+-ostriche pollo -taco
+-pesce lasagne -pizza vellutata kebab
+-spiedini -tofu
+-vellutata arrosto
+-polpette gamberi -pesce -focaccia -caviale
+pizza -patatine
+-kebab -tartare
+minestrone -lasagne tiramisu -caviale -gamberi
+ostriche -gamberi pollo formaggio
+-risotto
+-couscous -insalata carpaccio arancini braciola
+tiramisu zuppa braciola
+arancini calamari -polenta -ramen
+bruschetta -pollo
+-gelato
+minestrone cozze -zuppa
+tiramisu taco kebab tofu
+ravioli -tartare
+-calamari cozze -salmone -bistecca
+tofu
+couscous spiedini -lasagne -vino formaggio
+couscous -polenta -arancini -maki
+salmone -polpette
+-vellutata -calamari
+tartare -polenta -bistecca frittata paella
+-polenta -sushi
+pizza -sashimi tartare spiedini -sushi
+gamberi hamburger
+pizza -carne gamberi -zuppa
+pasta -pizza birra -tiramisu
+-pizza -patatine couscous -birra
+salmone spiedini sashimi -bistecca
+-zuppa carne bruschetta -formaggio
+-focaccia
+-zuppa
+-taco
+-ramen -torta -pizza -pollo -sushi
+-taco -salmone sashimi -gnocchi
+-braciola -arrosto ramen
+-tofu
+-carne -arancini
+-tiramisu -pizza
+-arrosto -vino
+ravioli kebab -pizza
+-gnocchi
+sashimi formaggio
+-vellutata carne hamburger
+formaggio
+cozze
+pasta ramen insalata sashimi
+arancini gamberi -vellutata
+pane gamberi -arancini polenta
+kebab pane tiramisu focaccia
+cozze -maki -gelato
+gelato paella sushi
+-bruschetta -pollo risotto
+arancini lasagne pollo
+ostriche -tempura
+cozze ravioli
+pane cozze polenta
+-ravioli arancini
+couscous -vino formaggio
+gnocchi -ostriche calamari -spiedini -formaggio
+sashimi -gamberi
+gelato -ravioli -vellutata -bistecca
+-arrosto risotto kebab
+braciola
+arrosto pasta -torta
+tiramisu
+-hamburger -spiedini -sashimi
+-ostriche -tiramisu
+bruschetta birra -spiedini hamburger
+-lasagne sushi -birra -salmone
+polenta formaggio
+-sushi
+caviale pizza insalata vellutata
+-carpaccio pollo -vellutata -patatine carne
+spiedini -formaggio -braciola
+arancini -carpaccio ostriche -minestrone salmone
+-maki
+-pane zuppa ravioli sashimi pasta
+-vellutata
+-risotto -bruschetta -minestrone gelato -tempura
+cozze taco
+minestrone -carne bruschetta
+-couscous braciola frittata
+-pizza sashimi birra
+pesce
+-polpette paella ostriche -pesce
+-patatine -spiedini pasta
+-bistecca -gelato -pizza -gnocchi couscous
+-pizza -maki pollo -tartare
+polpette -sushi -pollo -arrosto
+-arancini vino gnocchi
+patatine torta
+pasta tartare -pollo lasagne
+-tempura vino -bruschetta
+sushi -salmone braciola
+-caviale -ramen gamberi
+-taco
+-kebab vino spiedini -caviale -arancini
+-ostriche tiramisu focaccia -gamberi
+-bruschetta -vellutata ramen
+-ramen carpaccio -ostriche -carne
+cozze -braciola pollo -tartare
+-kebab -maki braciola -paella couscous
+-cozze -kebab
+birra minestrone -pesce
+cozze patatine
+-risotto spiedini
+maki -arancini -tartare -bruschetta
+-tempura -patatine calamari
+calamari patatine -polpette -pizza tempura
+gelato
+-calamari formaggio -caviale -tofu -sashimi
+-carpaccio -risotto bruschetta -gamberi -gelato
+-maki -sushi
+sashimi -polenta
+-pizza -tempura -taco salmone tofu
+-risotto -tartare -caviale bruschetta
+-gelato
+risotto
+-ravioli vellutata
+kebab insalata gamberi
+lasagne
+-gelato couscous -salmone taco
+hamburger
+focaccia paella pollo vellutata
+ostriche -salmone -maki
+pizza -patatine -cozze
+formaggio pizza -insalata
+minestrone
+-vellutata
+lasagne carne
+bruschetta -pesce -pasta -vino arancini
+calamari vellutata
+vellutata
+-couscous
+-spiedini
+-risotto lasagne calamari
+focaccia tiramisu -bistecca -birra -vino
+-arrosto gelato
+formaggio patatine
+-formaggio -ramen gamberi arrosto
+cozze patatine -vino
+focaccia pizza -tiramisu formaggio taco
+-insalata pollo patatine gamberi
+-pasta polenta -insalata -tempura paella
+-gnocchi ostriche -frittata
+-minestrone ramen -tempura -pollo -birra
+-salmone -paella -braciola
+-kebab -focaccia -caviale -ramen
+couscous
+-pollo bruschetta -gelato
+-pizza vino vellutata
+gelato zuppa

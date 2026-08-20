@@ -1,0 +1,21 @@
+pesce pizza carne sushi zuppa torta pasta risotto insalata pollo
+-insalata
+carne
+sushi
+pizza
+pollo
+-risotto zuppa
+-pasta
+pasta -torta carne
+-torta -risotto
+zuppa
+pizza pasta
+zuppa -torta pasta
+risotto sushi -pizza
+-pasta -pizza
+-pizza risotto pollo
+-zuppa -insalata carne
+carne pizza
+risotto
+zuppa pollo
+pesce pasta -pollo

@@ -1,0 +1,101 @@
+pasta vino carne risotto pesce arrosto torta braciola zuppa gelato insalata patatine lasagne pane pollo birra pizza salmone sushi formaggio
+carne torta -vino
+risotto -salmone -pasta pane
+-pollo
+salmone -risotto
+-pesce -formaggio -salmone birra
+-pollo torta -pizza
+pollo -braciola pasta
+birra
+-birra
+-birra pane braciola -pesce
+arrosto
+insalata
+-pesce -zuppa -pasta braciola
+-gelato braciola
+-zuppa -lasagne
+-torta -zuppa -carne salmone
+arrosto
+-risotto
+-pollo -braciola -sushi salmone
+-patatine formaggio -lasagne
+pane vino -braciola -pollo
+zuppa
+pollo
+-pizza gelato -birra
+-sushi torta pizza
+-insalata -risotto -pizza sushi
+-braciola -patatine salmone
+arrosto pasta -formaggio gelato
+-torta
+-salmone
+-patatine zuppa
+arrosto -pizza -carne pane
+birra salmone
+-vino -carne
+torta arrosto birra
+formaggio -pesce zuppa
+arrosto pane pasta -pizza
+-salmone
+arrosto pollo
+-pizza -pesce insalata
+-risotto -braciola vino
+pollo pasta
+-torta sushi
+birra -pesce
+pasta -birra
+braciola
+zuppa -sushi insalata
+pesce -arrosto -gelato -braciola
+-lasagne zuppa -vino
+arrosto -lasagne -birra
+-torta -birra pasta
+pesce
+-insalata -braciola pesce
+-lasagne -formaggio braciola -pane
+-gelato
+-gelato
+-pasta
+-birra lasagne -formaggio
+pasta lasagne
+braciola -lasagne
+pane -pasta
+-carne
+gelato
+-zuppa -pane -pesce -pasta
+arrosto pasta insalata
+-sushi
+-risotto -torta -zuppa pasta
+-risotto
+pizza -zuppa lasagne
+formaggio -vino -pane
+pane -birra -sushi risotto
+-salmone
+lasagne -pesce
+insalata -gelato -formaggio vino
+carne -pesce -lasagne -birra
+pollo
+risotto -salmone
+-vino -pesce lasagne
+-risotto -arrosto patatine
+pesce
+birra -pane
+-pizza
+vino salmone
+pasta patatine risotto
+carne -formaggio
+-formaggio pasta
+insalata -pollo pane
+-vino -braciola
+-pesce lasagne pizza arrosto
+salmone -formaggio
+pasta -arrosto insalata
+pasta insalata
+-braciola
+-arrosto
+-lasagne sushi
+carne
+-salmone
+-pasta -pollo -zuppa -sushi
+-patatine pasta
+pollo -pane
